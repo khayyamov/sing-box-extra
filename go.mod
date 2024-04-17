@@ -91,8 +91,8 @@ require (
 
 replace github.com/matsuridayo/libneko => ../libneko
 
-replace github.com/sagernet/sing-box => ../sing-box
+replace github.com/sagernet/sing-box => github.com/khayyamov/sing-box v1.8.14
 
-replace github.com/sagernet/sing-quic => ../sing-quic
+replace github.com/sagernet/sing-quic => github.com/khayyamov/sing-box-extra v0.0.1
 
 // replace github.com/sagernet/sing-dns v1.0.0 => ../sing-dns
